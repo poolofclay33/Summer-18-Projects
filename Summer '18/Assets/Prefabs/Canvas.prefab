@@ -1023,8 +1023,7 @@ MonoBehaviour:
     topRight: {r: 1, g: 1, b: 1, a: 1}
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 11400000, guid: f04ed46a4c47248a48a4cd86f3433797,
-    type: 2}
+  m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_overrideHtmlColors: 0
@@ -1151,7 +1150,7 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f841deedd6994f74bca241bbdf58803, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 21578528428286630, guid: 8f841deedd6994f74bca241bbdf58803,
     type: 2}
   m_fontSharedMaterials: []
@@ -1331,7 +1330,7 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f841deedd6994f74bca241bbdf58803, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 21578528428286630, guid: 8f841deedd6994f74bca241bbdf58803,
     type: 2}
   m_fontSharedMaterials: []
@@ -1632,7 +1631,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Between Worlds
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1d91ed119722e48558ce7e6ddefb6d2f, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 21733776798178152, guid: 1d91ed119722e48558ce7e6ddefb6d2f,
     type: 2}
   m_fontSharedMaterials: []
@@ -1648,8 +1647,7 @@ MonoBehaviour:
     topRight: {r: 1, g: 1, b: 1, a: 1}
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 11400000, guid: f04ed46a4c47248a48a4cd86f3433797,
-    type: 2}
+  m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_overrideHtmlColors: 0
@@ -1890,8 +1888,7 @@ MonoBehaviour:
     topRight: {r: 1, g: 1, b: 1, a: 1}
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 11400000, guid: f04ed46a4c47248a48a4cd86f3433797,
-    type: 2}
+  m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_overrideHtmlColors: 0
@@ -2070,7 +2067,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Begin
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f841deedd6994f74bca241bbdf58803, type: 2}
+  m_fontAsset: {fileID: 0}
   m_sharedMaterial: {fileID: 21578528428286630, guid: 8f841deedd6994f74bca241bbdf58803,
     type: 2}
   m_fontSharedMaterials: []
@@ -2275,8 +2272,7 @@ MonoBehaviour:
     topRight: {r: 1, g: 1, b: 1, a: 1}
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 11400000, guid: f04ed46a4c47248a48a4cd86f3433797,
-    type: 2}
+  m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_overrideHtmlColors: 0
@@ -2389,8 +2385,7 @@ MonoBehaviour:
     topRight: {r: 1, g: 1, b: 1, a: 1}
     bottomLeft: {r: 1, g: 1, b: 1, a: 1}
     bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 11400000, guid: f04ed46a4c47248a48a4cd86f3433797,
-    type: 2}
+  m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_overrideHtmlColors: 0
